@@ -8,7 +8,9 @@ To-Do List (React Native)
 주요 기능
 
 ✅ 할 일 추가: 새로운 할 일을 입력하여 목록에 추가할 수 있습니다.
+
 ❌ 할 일 삭제: 필요 없는 항목을 삭제할 수 있습니다.
+
 📌 완료/미완료 관리:
 
 미완료된 할 일과 완료된 할 일을 구분하여 표시하는 레이어 제공
@@ -17,5 +19,7 @@ To-Do List (React Native)
 기술 스택
 
 React Native
+
 JavaScript/TypeScript
+
 Expo (선택 사항)
